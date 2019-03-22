@@ -43,3 +43,7 @@ list:
   - title: Technology
     icon_class: fas
     icon_name: fa-robot
+    
+  - title: All
+    icon_class: fas
+    icon_name: fa-play-circle
